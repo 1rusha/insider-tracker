@@ -4,7 +4,7 @@
 
 This project loads every SEC Form 4 insider purchase since 2023 into a SQL database, matches each one to daily stock prices, and measures how the stock performed against the S&P 500 (SPY) 1, 3 and 6 months after the purchase became public. An interactive Streamlit dashboard presents the results.
 
-**Live dashboard:** _add your Streamlit link here_
+**Live dashboard:** [insider-tracker-cheikhdia.streamlit.app](https://insider-tracker-cheikhdia.streamlit.app/)
 
 ## Findings
 
